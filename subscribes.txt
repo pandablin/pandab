@@ -1,0 +1,4 @@
+https://speedup.club/api/v1/client/subscribe?token=37eea936614de81c4f02db0fdf49e9fd
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=623020e00b946baab958b3ff9fb8f195
+https://fanrr.cc/api/v1/client/subscribe?token=172792de8d036f2cdf5e45cc6f2287c6
+https://dashuai.us/api/v1/client/subscribe?token=d59f42a6f509cbcfc9f783a0d43c73a2

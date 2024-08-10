@@ -1,0 +1,64 @@
+proxies:
+  - {name: 🇭🇰 香港-02, server: hk-02.speedup.club, port: 443, type: vmess, uuid: c3bac407-e972-419f-b5e7-cad68640c259, alterId: 0, cipher: auto, tls: true, udp: true}
+  - {name: 🇮🇳 印度1, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-10 | IEPL, server: nevernever.wowfan.cyou, port: 38131, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇹🇼 台湾B, server: xdd.dashuai.cyou, port: 45059, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 JAPAN-4, server: x1angwanyuanshen.wowfan.cyou, port: 38031, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇭🇰 HONGKONG-13 | IEPL, server: fanrr.wowfan.cyou, port: 38134, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇨🇦 加拿大1, server: haa.dashuai.cyou, port: 45066, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-15 | IEPL, server: fanrrr.wowfan.cyou, port: 48021, type: ss, cipher: aes-128-gcm, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇺🇸 UNITEDSTATES-2, server: index.wowfan.cyou, port: 38016, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇩🇪 德国-1, server: ado1fhit1er.wowfan.cyou, port: 38080, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇹🇼 TAIWAN-1, server: ovoerpass.wowfan.cyou, port: 38004, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇯🇵 日本NO.2, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇸🇬 新加坡NO.1, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇦🇺 澳大利亚原生1, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-1, server: genshin.wowfan.cyou, port: 38020, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇭🇰 HONGKONG-14 | IEPL, server: fanrrr.wowfan.cyou, port: 38135, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇲🇾 马来西亚, server: nsfw.wowfan.cyou, port: 38921, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇬🇧 英国2, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-5, server: rainbowsix.wowfan.cyou, port: 38124, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇺🇸 美国NO.2, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 JAPAN-2, server: midnight.wowfan.cyou, port: 38083, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇬🇧 英国-1, server: whatcanisay.wowfan.cyou, port: 38003, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇹🇼 TAIWAN-4, server: aimwar3.wowfan.cyou, port: 38007, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇸🇬 新加坡NO.2, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 香港, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-2, server: mihoyo.wowfan.cyou, port: 38021, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇸🇬 SINGAPORE-1, server: polaris.wowfan.cyou, port: 38011, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇰🇷 KOREA-1, server: kobebryant.wowfan.cyou, port: 39083, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇸🇬 SINGAPORE | IEPL, server: fanrr.wowfan.cyou, port: 38014, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇭🇰 香港NO.1, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 台湾2, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇯🇵 JAPAN-1, server: n2xware.wowfan.cyou, port: 38009, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇺🇸 美国NO.1, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇲🇴 澳门NO.2, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇵🇱 波兰-1, server: hvhbbs.wowfan.cyou, port: 38081, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇸🇬 SINGAPORE-2, server: ireallywanttostayatyourhouse.wowfan.cyou, port: 38012, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇺🇸 美国2, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇦 加拿大2, server: xdd.dashuai.cyou, port: 45067, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-12 | IEPL, server: fanr.wowfan.cyou, port: 38133, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇰🇷 韩国-三网优化2, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: c4725a4e-4fb1-4854-8d1d-0a59cfac4e70, sni: kr-qingyun.dwyun.me, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇳 印度2, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-9 | IEPL, server: pso2ngs.wowfan.cyou, port: 38130, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇸🇬 SINGAPORE-4, server: quest.wowfan.cyou, port: 38024, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇯🇵 日本NO.1, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-8, server: admin.wowfan.cyou, port: 38029, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇬🇧 英国1, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇹🇼 台湾A, server: haa.dashuai.cyou, port: 45058, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇺🇸 美国-03, server: us-03.speedup.club, port: 443, type: vmess, uuid: c3bac407-e972-419f-b5e7-cad68640c259, alterId: 0, cipher: auto, tls: true, udp: true}
+  - {name: 🇺🇸 UNITEDSTATES-3, server: mamehinata.wowfan.cyou, port: 38017, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇸🇬 SINGAPORE-3, server: quest.wowfan.cyou, port: 38013, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇹🇼 TAIWAN-5 | IEPL, server: fanrrr.wowfan.cyou, port: 38008, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇹🇼 台湾1, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-4, server: sk33t.wowfan.cyou, port: 38023, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇦🇺 澳大利亚原生2, server: xdd.dashuai.cyou, port: 45080, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇭🇰 HONGKONG-6, server: rainbowsix.wowfan.cyou, port: 38025, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇭🇰 HONGKONG-11 | IEPL, server: wowfan.wowfan.cyou, port: 38132, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇯🇵 JAPAN-3, server: m4mesense.wowfan.cyou, port: 38027, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇭🇰 HONGKONG-3, server: robertsspaceindustries.wowfan.cyou, port: 38022, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇭🇰 HONGKONG-7, server: neverwin.wowfan.cyou, port: 38050, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇺🇸 美国1, server: haa.dashuai.cyou, port: 45070, type: vmess, uuid: 2960e503-ea88-4968-9e90-4ed868c1aabd, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 🇨🇦 加拿大-魁北克, server: en7.iepl.run, port: 38900, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
+  - {name: 🇬🇧 英国-01, server: uk-01.speedup.club, port: 443, type: vmess, uuid: c3bac407-e972-419f-b5e7-cad68640c259, alterId: 0, cipher: auto, tls: true, udp: true}
+  - {name: 🇺🇸 UNITEDSTATES-1, server: pico.wowfan.cyou, port: 38015, type: ss, cipher: chacha20-ietf-poly1305, password: 0378dba5-cb3e-44c4-9c29-1b7547935c22, udp: true}
