@@ -1,18 +1,7 @@
-/*
-  优化版 alist.css v10.2 (解决内容遮挡问题)
-  作者: Pandab & AI
-  说明: 本版本解决了页脚容器遮挡页面内容的问题。
-*/
-
-/* 1. 主背景图 (方案C，保留用户设置) */
 body {
 	background-image: url('https://imgapi.pandab.top:22822/images/landscape/webp/20250815_100943_4133.webp');
-	background-repeat: no-repeat;
-	background-size: cover; 
-	background-position: center center; 
-	background-attachment: fixed; 
-    padding-bottom: 180px !important; /* 增加底部内边距，为固定的页脚预留更多空间 */
 }
+
 
 
 
